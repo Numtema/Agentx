@@ -1,0 +1,6 @@
+{
+  "name": "AGENTX: Project Documentation Scaffolder",
+  "description": "An interactive tool to browse a best-practice documentation structure and download a complete project documentation scaffold.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
